@@ -14,3 +14,7 @@ Glucocorticoid receptor binding has been implicated in many stress related neuro
 #Simulations
 
 We simulate the binding of MRs and GRs to GREs within DNA in the hippocampus following chronic restraint stress for 9 weeks. 
+
+#Results
+
+Simulated CORT binding to MRs and GRs lead to GRE occupancy within hippocampal DNA following stress. RNA expression was increased significantly. 
