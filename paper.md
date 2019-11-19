@@ -1,5 +1,5 @@
 # Title
-Glucocorticoid receptor action in the hippocampus following chronic stress
+Corticosteroind hormone action in the hippocampus following chronic stress
 # Author 
 Clare Kennedy
 #Introduction
